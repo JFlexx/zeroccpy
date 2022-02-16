@@ -3,6 +3,7 @@ Práctica nota: 6.
 
 Pasan todas las pruebas de las 2 primeras fases de 3. 
 Si quieres realizar la 3 fase para el 10, únicamente necesitas terminar el GET Bloqueante, tengo un pequeño código que está tapado como comentario.
+
                                               --> ///** GET bloqueante SIN TERMINAR **/ a partir de la línea 355. 
 En mi caso no pasaba esa prueba pero creo que fue por culpa de libzerocopy.Mq que no estaba controlando del todo bien los tamaños de mensaje que se enviaban. Como ya tenía 16 puntos de prácticas no continue intentándolo ya que no valía la pena "en mi caso". 
 
