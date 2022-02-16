@@ -1,16 +1,16 @@
 # practica Zerocpy
-Práctica nota: 6.
+Nota práctica: 6.
 
 Pasan todas las pruebas de las 2 primeras fases de 3. 
 Si quieres realizar la 3 fase para el 10, únicamente necesitas terminar el GET Bloqueante, tengo un pequeño código que está tapado como comentario.
 
                                               --> ///** GET bloqueante SIN TERMINAR **/ a partir de la línea 355. 
-En mi caso no pasaba esa prueba pero creo que fue por culpa de libzerocopy.Mq que no estaba controlando del todo bien los tamaños de mensaje que se enviaban. Como ya tenía 16 puntos de prácticas no continue intentándolo ya que no valía la pena "en mi caso". 
+En mi caso no pasaba esa prueba pero creo que fue por culpa de libzerocopy.Mq que no estaba controlando del todo bien los tamaños de mensaje que se enviaban. Como ya tenía 16 puntos de prácticas no continué intentándolo ya que no valía la pena "en mi caso". 
 
 # Datos
-- Para este práctica el envío de mensaje es a libre elección, yo obté por mensaje del tiepo http, tratándolos como cadenas de caracteres.
+- Para este práctica el envío de mensaje es a libre elección, yo obté por mensajes del tipo http, tratándolos como cadenas de caracteres.
 - Y para cuando existe mensajes en cola usé números: -1: no existe cola, 1: existe cola.
-- Práctica compleja sobre todo por el control de mensaje y socktes, infórmate en la documentación pero probalemente es la práctica más dura juntos a la de mutex.
+- Práctica compleja sobre todo por el control de mensaje y sockets, infórmate en la documentación pero probalemente es la práctica más dura junto a la de mutex.
 
 # Comentario de conducta 
 Si estas leyendo esto, es por que yo confío en ti o, en su defecto, alguien en quien yo confío confía a la vez en ti.
