@@ -1,5 +1,5 @@
 # practica Zerocpy
-Práctica nota: 6
+Práctica nota: 6.
 Pasan todas las pruebas de las 2 primeras fases de 3. 
 Si quieres realizar la 3 fase para el 10, únicamente necesitas terminar el GET Bloqueante, tengo un pequeño código que está tapado como comentario.
                                               --> ///** GET bloqueante SIN TERMINAR **/ a partir de la línea 355. 
