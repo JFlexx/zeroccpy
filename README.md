@@ -1,9 +1,10 @@
-EL proyecto es simplemente construir un broker y através de un cliente-servido. Objetivo. 
+Comunicar al broker a travéz de mensaje en cola utilizando:
 
 	- Crear Colas
-	- Enviar contenido en las colas
-	- Modificar longitud de cola
-	- Destruir cola
+	- Destruccion de colas 
+	- Put: guardar mensajes en cola 
+	- Get: traer mensajes guardados
+ 	- Get bloqueante: TODO:
 
 
 
