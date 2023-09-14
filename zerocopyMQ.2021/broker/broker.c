@@ -135,7 +135,7 @@ int main(int argc, char *argv[]) {
             /* CreateMQ(const char *cola):
              añade una nueva entrada a la estructura de datos "cola" */
             case 'C':
-                /** usamos reacv, y seguimos cumplimiento requisitos de zerocpy como en la especificacion de la guia */    
+                /** usamos reacv, y seguimos cumplimiento requisitos de zerocpy como en la especificacion */    
                 if ((tamanCola=tamanioCola(s_conec, &tamanCola))<0)
                 {
                     //Si hay error cerramos conexiones del socket y del accept()
